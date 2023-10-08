@@ -50,7 +50,7 @@ Follow these steps to get the project up and running:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/orkhank/master_class_cevap.git
+   git clone https://github.com/orkhank/iris-dataset-with-streamlit.git
    cd master_class_cevap
    ```
 
