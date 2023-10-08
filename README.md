@@ -82,4 +82,5 @@ To deploy the project on an AWS EC2 instance, follow these general steps:
 
 5. Access the Streamlit web application using your EC2 instance's public IP or DNS and port 8501.
 
-You can access the deployed app at `51.20.44.211:8501`. The connection is without domain and HTTPS.
+You can access the deployed app [here](51.20.44.211:8501). The connection is without domain and HTTPS.
+
