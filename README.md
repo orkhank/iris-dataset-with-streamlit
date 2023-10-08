@@ -4,6 +4,12 @@ This documentation provides an overview of the Machine Learning submission proje
 
 ![showcase](image.png)
 
+Here is the question that the project is based on:
+
+> Soru-1
+>
+> Bu çalışma kapsamında sizden belirlediğiniz bir verisetinde bir makine öğrenmesi modeli kurmanız ardından bu modeli bir uygulamaya çevirip, dockerize edip bir > bulut bilişimde canlıya almanızı bekliyoruz. Ardından bütün kodunuzu dokümante ederek github'a yüklemenizi istiyoruz.
+
 ## Project Overview
 
 The main objective of this project is to demonstrate the application of Machine Learning techniques to a real-world dataset. The Iris dataset is a well-known dataset in the Machine Learning community, containing measurements of four features of three species of Iris flowers. The project includes the following key components:
